@@ -1,8 +1,8 @@
 ## Greetings!
 
-I'm currently employed full-time, but looking for something more.
+I'm currently employed full-time, but collaboration is welcome.
 
-My interests include 3d graphics, game dev, AI, Machine Learning, Networking, Optimizing things such as automating common tasks, finances, etc.
+My interests include 3d graphics, game dev, Networking, Optimization, and Automation.
 
 ### Current Tech Stack
 
