@@ -6,17 +6,21 @@ My interests include 3d graphics, game dev, AI, Machine Learning, Networking, Op
 
 ### Current Tech Stack
 
-- C++
-- C#/[ASP].NET/Blazor
-- Python
+- C++ (Unreal)
+- C# (.NET, AvaloniaUI, Godot)
+- Python (Automation)
+- Zig (Cross-Compile everything else, Build System, not Rust, not Go, happy)
 
 ### Permanent fixations
 
-- Linear Algebra and its applications in ML and computer graphics
+- Mathematics
+  - Linear Algebra and Trig applications in computer graphics
+  - Category Theory?
 - 3d Graphics
   - Blender 3d
   - Unreal Engine
-- dabbling in Category Theory
+  - Godot
+- Aseprite
 - dark electronic beats
 - Sci-Fi
 - dreaming of space travel
