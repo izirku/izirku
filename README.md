@@ -9,7 +9,7 @@ My interests include 3d graphics, game dev, Networking, Optimization, and Automa
 - C++ (Unreal)
 - C# (.NET, AvaloniaUI, Godot)
 - Python (Automation)
-- Zig (Cross-Compile everything else, Build System, not Rust, not Go, happy)
+- Rust (for everything else, while Zig matures)
 
 ### Permanent fixations
 
